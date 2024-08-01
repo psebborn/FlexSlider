@@ -435,7 +435,7 @@
           startY,
           offset,
           cwidth,
-          dx = null,
+          dx,
           startT,
           onTouchStart,
           onTouchMove,
